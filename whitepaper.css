@@ -1,0 +1,1 @@
+.paper-link{display:inline-flex;gap:22px;align-items:center;margin-top:32px;padding-bottom:9px;border-bottom:1px solid var(--acid);color:var(--acid);font:12px var(--mono);text-decoration:none;text-transform:uppercase}.paper-link span{color:var(--coral);font-size:17px}.paper-link:hover{color:var(--paper);border-color:var(--paper)}
